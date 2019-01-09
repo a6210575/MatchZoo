@@ -26,7 +26,7 @@ MatchZoo is a toolkit for text matching. It was developed with a focus on facili
 
    modules
    model_parm_readme
-
+   README.md
 
 
 Indices and tables

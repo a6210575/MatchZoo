@@ -1,4 +1,4 @@
-MatchZoo Model Hyper-parameters Reference
+MatchZoo Model Hyper-parameters Reference(from rst)
 =========================================
 
 Shared Parameters
